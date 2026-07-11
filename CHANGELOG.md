@@ -1,5 +1,12 @@
 # @dreki-gg/pi-datadog
 
+## [0.4.0](https://github.com/jalbarrang/pi-datadog/compare/v0.3.0...v0.4.0) (2026-07-11)
+
+
+### Features
+
+* extract pi-datadog from dreki-gg/pi-extensions monorepo ([9ee1fb0](https://github.com/jalbarrang/pi-datadog/commit/9ee1fb0c4989f3a271c077ba134c88c6bf9808ec))
+
 ## 0.3.0
 
 ### Minor Changes
