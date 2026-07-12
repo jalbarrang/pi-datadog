@@ -1,5 +1,12 @@
 # @dreki-gg/pi-datadog
 
+## [0.4.1](https://github.com/jalbarrang/pi-datadog/compare/v0.4.0...v0.4.1) (2026-07-12)
+
+
+### Bug Fixes
+
+* **deps:** bump dependencies to latest ([#4](https://github.com/jalbarrang/pi-datadog/issues/4)) ([cd0d189](https://github.com/jalbarrang/pi-datadog/commit/cd0d18944cfc6b813d8166c5239649d87376ca89))
+
 ## [0.4.0](https://github.com/jalbarrang/pi-datadog/compare/v0.3.0...v0.4.0) (2026-07-11)
 
 
